@@ -33,28 +33,41 @@ O objetivo principal foi criar uma interface de usuário moderna e responsiva, a
   - Categorias organizadas para facilitar a navegação.  
 
 ---
+<br>
 
 ## 🖼️ Projeto Completo
 
-[![Prévia do projeto](https://via.placeholder.com/1000x600.png?text=AluraBooks)  ](https://gghiaroni.github.io/AluraBooks/)
+<br>
+
+https://gghiaroni.github.io/AluraBooks/
 
 <br>
+
 ### Prévia Mobile 📱
 
 <br>
+
 - **smarphone:**
+  
+<br>
   
 ![Captura de Tela 2024-11-25 às 07 57 12](https://github.com/user-attachments/assets/71cc12f7-1966-4556-b195-3c56bf6b5089)
 
 <br>
 <br>
+
 - **tablet/ipad:**
+
+<br>
 
 ![Captura de Tela 2024-11-25 às 07 58 48](https://github.com/user-attachments/assets/3de488f0-6fae-4263-a121-a02a319a99a6)
 
 <br>
 <br>
-### Prévia Desktop 📱
+
+### Prévia Desktop 💻
+
+<br>
 
 ![Captura de Tela 2024-11-25 às 07 59 32](https://github.com/user-attachments/assets/284fa1a6-c23f-4118-8abf-f76c66dbaf4d)
 
