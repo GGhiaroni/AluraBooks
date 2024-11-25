@@ -48,7 +48,7 @@ O objetivo principal foi criar uma interface de usuário moderna e responsiva, a
 
 
 
-- **tablet/ipad**
+- **tablet/ipad:**
 
 ![Captura de Tela 2024-11-25 às 07 58 48](https://github.com/user-attachments/assets/3de488f0-6fae-4263-a121-a02a319a99a6)
 
